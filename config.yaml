@@ -1,0 +1,5 @@
+model_name: Facenet    # یا VGG-Face
+distance_metric: cosine
+recognition_threshold: 0.35   # با DeepFace/Facenet معمولاً 0.3-0.5 منطقی است
+min_face_size: 80
+gallery_path: "data/gallery.json"
