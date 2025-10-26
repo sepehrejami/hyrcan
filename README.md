@@ -1,11 +1,6 @@
 
 # Smart Attendance (MVP)
 
-حداقل‌نمونهٔ «حضور و غیاب با تشخیص چهره» بر پایه‌ی **DeepFace + OpenCV** 
-
-
----
-
 ## ویژگی‌ها
 - تشخیص و شناسایی چهره (Facenet پیش‌فرض، متریک Cosine/Euclidean)
 - افزودن فرد جدید به گالری (JSON)
@@ -122,4 +117,5 @@ smart-attendance/
 ---
 
 ---
+
 
