@@ -1,6 +1,3 @@
-# streamlit_app.py
-# -*- coding: utf-8 -*-
-
 import io
 import os
 import yaml
@@ -14,7 +11,7 @@ from src.face_service import FaceService
 from src.gallery import Gallery
 from src.recognizer import Recognizer
 from src.responder import welcome_message
-from src.attendance import AttendanceStore  # اگر قبلاً اضافه نکردی، فایلش را طبق راهنما بساز
+from src.attendance import AttendanceStore  
 
 
 # ---------- Helpers ----------
