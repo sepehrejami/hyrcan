@@ -1,7 +1,7 @@
 
 # Smart Attendance (MVP)
 
-حداقل‌نمونهٔ «حضور و غیاب با تشخیص چهره» بر پایه‌ی **DeepFace + OpenCV** :
+حداقل‌نمونهٔ «حضور و غیاب با تشخیص چهره» بر پایه‌ی **DeepFace + OpenCV** 
 
 
 ---
@@ -122,3 +122,4 @@ smart-attendance/
 ---
 
 ---
+
